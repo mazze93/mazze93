@@ -1,16 +1,44 @@
-## Hi there 👋
+# Mazze LeCzzare Frazer
 
-<!--
-**mazze93/mazze93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security tooling • open infrastructure • privacy-first systems.
 
-Here are some ideas to get you started:
+Founder of **Secure Pride**, building tools that help vulnerable organizations run safer software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+🔐 **Secure Pride**  
+Privacy-focused device posture checks and system hardening guidance.
+
+🧠 **Context Synapse**  
+Experimental engine modeling how humans and AI systems negotiate context.
+
+🛡 **macOS Privacy Starter**  
+ADHD-friendly secure developer environment with Objective-See integrations.
+
+---
+
+## Writing
+
+Essays and research notes:
+
+https://mazzeleczzare.com
+
+---
+
+## Research Identity
+
+ORCID  
+https://orcid.org/0009-0005-9661-4780
+
+---
+
+## Mission
+
+Build software that is:
+
+• secure  
+• humane  
+• understandable  
+• accessible to people who aren't security engineers
