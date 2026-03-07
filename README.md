@@ -2,31 +2,55 @@
 
 Security tooling • open infrastructure • privacy-first systems.
 
-Founder of **Secure Pride**, building tools that help vulnerable organizations run safer software.
+Founder of **Secure Pride**, building practical security and device-hardening tools for vulnerable organizations and independent builders.
 
 ---
 
-## Projects
+## Core Projects
 
 🔐 **Secure Pride**  
-Privacy-focused device posture checks and system hardening guidance.
+Privacy-focused posture checks and device-hardening guidance for macOS, iOS, Linux, and other systems.
 
 🧠 **Context Synapse**  
-Experimental engine modeling how humans and AI systems negotiate context.
+Experimental engine exploring how humans and AI systems negotiate context during interaction.
 
 🛡 **macOS Privacy Starter**  
-ADHD-friendly secure developer environment with Objective-See integrations.
+A ready-to-deploy, privacy-first developer environment with Objective-See integration and ADHD-friendly workflows.
+
+---
+
+## Areas of Focus
+
+- Security tooling and system hardening  
+- Privacy-preserving infrastructure  
+- Human–AI interaction models  
+- Calm, accessible software design
 
 ---
 
 ## Writing
 
-Essays and research notes:
+Research notes, essays, and technical explorations:
 
 https://mazzeleczzare.com
 
 ---
 
+## Research Identity
+
+ORCID  
+https://orcid.org/0009-0005-9661-4780
+
+---
+
+## Mission
+
+Build software that is:
+
+- secure  
+- humane  
+- understandable  
+- usable by people who are **not** security engineers
 ## Research Identity
 
 ORCID  
