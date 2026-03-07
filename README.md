@@ -1,5 +1,9 @@
 # Mazze LeCzzare Frazer
 
+![GitHub followers](https://img.shields.io/github/followers/mazze93?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mazze93?style=social)
+![Secure Pride Repo](https://img.shields.io/github/stars/mazze93/Secure-Pride?label=Secure%20Pride&style=flat-square)
+
 Security tooling • open infrastructure • privacy-first systems.
 
 Founder of **Secure Pride**, building practical security and device-hardening tools for vulnerable organizations and independent builders.
