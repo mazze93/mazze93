@@ -1,0 +1,70 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title-light desc-light">
+  <title id="title-light">Mazze LeCzzare Frazer</title>
+  <desc id="desc-light">Security tooling, privacy-first systems, and human-AI infrastructure.</desc>
+
+  <defs>
+    <linearGradient id="bg-l" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="55%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#E9EFF7"/>
+    </linearGradient>
+    <linearGradient id="accent-l" x1="860" y1="30" x2="1160" y2="270" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="50%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="glow-l" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="18" fill="url(#bg-l)"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.12" stroke="#94A3B8" stroke-width="0.8">
+    <line x1="0" y1="53" x2="1280" y2="53"/>
+    <line x1="0" y1="106" x2="1280" y2="106"/>
+    <line x1="0" y1="160" x2="1280" y2="160"/>
+    <line x1="0" y1="213" x2="1280" y2="213"/>
+    <line x1="0" y1="266" x2="1280" y2="266"/>
+    <line x1="160" y1="0" x2="160" y2="320"/>
+    <line x1="320" y1="0" x2="320" y2="320"/>
+    <line x1="480" y1="0" x2="480" y2="320"/>
+    <line x1="640" y1="0" x2="640" y2="320"/>
+    <line x1="800" y1="0" x2="800" y2="320"/>
+    <line x1="960" y1="0" x2="960" y2="320"/>
+    <line x1="1120" y1="0" x2="1120" y2="320"/>
+  </g>
+
+  <!-- left rule -->
+  <rect x="72" y="82" width="2.5" height="116" rx="1.5" fill="url(#accent-l)" opacity="0.85"/>
+
+  <!-- text block -->
+  <text x="90" y="120" fill="#0F172A" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.025em">Mazze LeCzzare Frazer</text>
+  <text x="91" y="162" fill="#334155" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="400" letter-spacing="0.01em">Security tooling · privacy-first systems · human&#x2011;AI infrastructure</text>
+  <text x="91" y="210" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" letter-spacing="0.1em">SECURE PRIDE · OPEN INFRASTRUCTURE · RESEARCH + WRITING</text>
+
+  <!-- motif: context lines -->
+  <g filter="url(#glow-l)" opacity="0.88">
+    <path d="M892 68C942 76 992 104 1022 148C1048 186 1086 204 1140 210" stroke="url(#accent-l)" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M858 118C906 122 950 148 978 184C1002 216 1044 232 1100 238" stroke="url(#accent-l)" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+    <path d="M838 178C886 172 930 185 968 212C1000 236 1040 250 1094 252" stroke="url(#accent-l)" stroke-width="1.4" stroke-linecap="round" opacity="0.55"/>
+  </g>
+
+  <!-- motif: shield -->
+  <g>
+    <path d="M1044 66L1128 100V162C1128 212 1092 256 1044 272C996 256 960 212 960 162V100L1044 66Z" fill="none" stroke="#CBD5E1" stroke-width="1.2" opacity="0.9"/>
+    <path d="M1044 98L1092 116V158C1092 190 1072 220 1044 234C1016 220 996 190 996 158V116L1044 98Z" fill="none" stroke="url(#accent-l)" stroke-width="1.8"/>
+    <!-- nodes -->
+    <circle cx="960" cy="162" r="4.5" fill="#0891B2"/>
+    <circle cx="1128" cy="100" r="4.5" fill="#6366F1"/>
+    <circle cx="1094" cy="252" r="4.5" fill="#059669"/>
+    <circle cx="996" cy="116" r="3.5" fill="#64748B"/>
+    <circle cx="1092" cy="158" r="3.5" fill="#64748B"/>
+    <!-- connector ticks -->
+    <line x1="960" y1="162" x2="996" y2="158" stroke="#94A3B8" stroke-width="1.1"/>
+    <line x1="1128" y1="100" x2="1092" y2="116" stroke="#94A3B8" stroke-width="1.1"/>
+    <line x1="1094" y1="252" x2="1044" y2="234" stroke="#94A3B8" stroke-width="1.1"/>
+  </g>
+</svg>

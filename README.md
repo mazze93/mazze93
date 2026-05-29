@@ -1,97 +1,46 @@
-# Mazze LeCzzare Frazer
-
-![GitHub followers](https://img.shields.io/github/followers/mazze93?style=social)
-![GitHub stars](https://img.shields.io/github/stars/mazze93?style=social)
-![Secure Pride Repo](https://img.shields.io/github/stars/mazze93/Secure-Pride?label=Secure%20Pride\&style=flat-square)
-
-Security tooling • open infrastructure • privacy-first systems.
-
-Founder of **Secure Pride**, building practical security and device-hardening tools for vulnerable organizations and independent builders.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img alt="Mazze LeCzzare Frazer — security tooling, privacy-first systems, and human-AI infrastructure" src="./assets/banner-light.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
-## Core Projects
+## Selected Work
 
-🔐 **Secure Pride**
-https://github.com/mazze93/Secure-Pride
-
-Privacy-focused posture checks and device hardening for macOS, iOS, Linux, and other systems.
-
-Includes:
-
-• system configuration audits
-• privacy posture checks
-• hardening guidance
-• cross-platform security baselines
+| Project | What it does | Why it matters |
+|---|---|---|
+| [**Secure Pride**](https://github.com/mazze93/Secure-Pride) | Privacy posture checks and device hardening for macOS, iOS, and Linux | Makes practical security usable for vulnerable orgs and independent builders |
+| [**Context Synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for human–AI context negotiation | Explores conversational state, agent memory, and alignment between human and machine systems |
+| [**macOS Privacy Starter**](https://github.com/mazze93/macos-privacy) | Ready-to-deploy hardened developer environment | Objective-See tooling, privacy-first terminal config, and AI-friendly CLI workflows out of the box |
 
 ---
 
-🧠 **Context Synapse**
-https://github.com/mazze93/context-synapse
+## Focus
 
-Experimental engine exploring how humans and AI systems negotiate context during interaction.
-
-Focus areas:
-
-• conversational state modeling
-• agent memory structures
-• context alignment between human and machine systems
+- Security tooling that reduces real-world risk for people who aren't security engineers
+- Privacy-preserving infrastructure for builders and vulnerable organizations
+- Human–AI systems that are legible, calm, and operationally sound
+- Calm, accessible software design without sacrificing correctness
 
 ---
 
-🛡 **macOS Privacy Starter**
-https://github.com/mazze93/macos-privacy
+## Writing + Research
 
-A ready-to-deploy secure developer environment including:
+Essays, research notes, and technical explorations on privacy infrastructure, human–AI collaboration, and open source systems thinking.
 
-• Objective-See security tooling
-• privacy-first terminal configuration
-• AI-friendly CLI workflows
-• ADHD-friendly development ergonomics
+→ [mazzeleczzare.com](https://mazzeleczzare.com) · [ORCID 0009-0005-9661-4780](https://orcid.org/0009-0005-9661-4780)
 
 ---
 
-## Areas of Focus
+## Build philosophy
 
-* security tooling and system hardening
-* privacy-preserving infrastructure
-* human–AI interaction models
-* calm, accessible software design
+Software should be secure, humane, understandable, and accessible to people who aren't security engineers. That's the constraint every project here is built against.
 
 ---
 
-## Writing
+## Working together
 
-Essays, research notes, and technical explorations:
-
-https://mazzeleczzare.com
-
-Topics include:
-
-• privacy infrastructure
-• human–AI collaboration
-• open source systems thinking
-
----
-
-## Research Identity
-
-ORCID
-https://orcid.org/0009-0005-9661-4780
-
----
-
-## Contributing
-
-If you're interested in collaborating on privacy tooling, human-AI systems, or Secure Pride infrastructure, feel free to open an issue or reach out.
-
----
-
-## Mission
-
-Build software that is:
-
-• secure
-• humane
-• understandable
-• accessible to people who aren't security engineers
+Open to collaboration on privacy tooling, secure infrastructure, and human–AI systems. Open an issue or reach out directly.
