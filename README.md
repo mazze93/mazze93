@@ -14,7 +14,7 @@
 |---|---|---|
 | [**Secure Pride**](https://github.com/mazze93/Secure-Pride) | Privacy posture checks and device hardening for macOS, iOS, and Linux | Makes practical security usable for vulnerable orgs and independent builders |
 | [**Context Synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for human–AI context negotiation | Explores conversational state, agent memory, and alignment between human and machine systems |
-| [**macOS Privacy Starter**](https://github.com/mazze93/macos-privacy) | Ready-to-deploy hardened developer environment | Objective-See tooling, privacy-first terminal config, and AI-friendly CLI workflows out of the box |
+
 
 ---
 
