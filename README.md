@@ -28,10 +28,32 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 
 ## Selected Work
 
-| Project | What it does | Why it matters |
-|---|---|---|
-| [**Secure Pride**](https://github.com/mazze93/Secure-Pride) | Privacy posture checks and device hardening for macOS, iOS, and Linux | Brings enterprise-grade security hygiene within reach of vulnerable orgs and solo builders |
-| [**Context Synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for human–AI context negotiation | Explores how conversational state, agent memory, and alignment actually work in practice |
+### Security & privacy infrastructure
+
+| Project | What it does |
+|---|---|
+| [**secure-pride**](https://github.com/mazze93/secure-pride) | Privacy-first cybersecurity tools and standards for LGBTQ+ communities and high-risk groups, built for adversarial conditions |
+| [**secure-container-template**](https://github.com/mazze93/secure-container-template) | Hardened Python container template — non-root runtime, SBOM, Docker Scout, security-gated CI |
+| [**github-hardening-skills**](https://github.com/mazze93/github-hardening-skills) | Idempotent, transferable skills for hardening GitHub repositories — branch protection, Dependabot, CI |
+| [**macos-privacy**](https://github.com/mazze93/macos-privacy) | Ready-to-deploy, privacy-first macOS terminal + developer environment bootstrap |
+
+### Trustworthy AI & agentic systems
+
+| Project | What it does |
+|---|---|
+| [**praxis-aegis**](https://github.com/mazze93/praxis-aegis) | Trust-layer for agentic AI: policy guardrails and signing-aware controls for AI tool use |
+| [**stele**](https://github.com/mazze93/stele) | Directive compiler and integrity telemetry — governance-as-code for AI-assisted work |
+| [**stratum**](https://github.com/mazze93/stratum) | Epistemic decision ledger: append-only event log with evidence-gated trust |
+| [**context-synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for modeling how humans and AI systems negotiate context |
+
+### Apps & product design
+
+| Project | What it does |
+|---|---|
+| [**meridian**](https://github.com/mazze93/meridian) | Privacy-first, local-first calendar for Apple platforms — Tailscale-only peer sync, no cloud |
+| [**lockr**](https://github.com/mazze93/lockr) | Privacy-first dating and social app for the LGBTQ+ community — E2E encryption, safety-first design |
+| [**daedalus**](https://github.com/mazze93/daedalus) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
+| [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) | Editorial platform for essays and privacy writing — Astro, MDX, Cloudflare Pages |
 
 ---
 
