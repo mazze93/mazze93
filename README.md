@@ -52,7 +52,7 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 |---|---|
 | [**meridian**](https://github.com/mazze93/meridian) | Privacy-first, local-first calendar for Apple platforms — Tailscale-only peer sync, no cloud |
 | [**lockr**](https://github.com/mazze93/lockr) | Privacy-first dating and social app for the LGBTQ+ community — E2E encryption, safety-first design |
-| [**daedalus**](https://github.com/mazze93/daedalus) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
+| [**daedalus-switch**](https://github.com/mazze93/daedalus-switch) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
 | [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) | Editorial platform for essays and privacy writing — Astro, MDX, Cloudflare Pages |
 
 ---
