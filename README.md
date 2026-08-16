@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Security tooling. Privacy-first infrastructure. Human-AI systems built to last.</strong>
+  <strong>Security engineering, open infrastructure, and AI evaluation for systems that should fail visibly, not silently.</strong>
 </p>
 
 <p align="center">
@@ -18,11 +18,30 @@
 
 ---
 
-## What I Build
+## Thesis
 
-I make security practical and AI systems trustworthy — for independent builders, researchers, and organizations that can't afford to get it wrong.
+Systems reveal themselves under pressure — that's the working premise behind everything in this profile. I build and test for **observable state**: security tooling, privacy-preserving infrastructure, and human-AI systems designed so that failure surfaces early instead of getting buried under a passing test suite.
 
-My work sits at the intersection of **operational security**, **privacy infrastructure**, and **human-AI alignment**. Every project here is built against the same constraint: it has to work for people who aren't security engineers.
+Every project here is built against the same constraint: it has to work, be auditable, and be legible to people who aren't security engineers.
+
+---
+
+## Current Excavations
+
+- Hardening privacy-first, local-first infrastructure (Meridian, macos-privacy)
+- Building policy guardrails and integrity telemetry for agentic AI (praxis-aegis, stele)
+- Extending idempotent hardening skills across GitHub repositories
+- Writing on privacy infrastructure and human–AI collaboration
+
+---
+
+## Work Strata
+
+| Domain | Focus | Typical output |
+|---|---|---|
+| Security & privacy infrastructure | Threat-informed hardening, container/CI security, adversarial-conditions design | tooling, templates, audits |
+| Trustworthy & agentic AI | Policy guardrails, integrity telemetry, epistemic decision logging | guardrail libraries, ledgers, research notes |
+| Apps & product design | Local-first sync, E2E-encrypted social systems, editorial platforms | shipped apps, calm UX under real constraints |
 
 ---
 
@@ -57,16 +76,7 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 
 ---
 
-## Areas of Focus
-
-- **Threat-informed security tooling** — reducing real-world risk, not just surface-area compliance
-- **Privacy-preserving infrastructure** — for builders and organizations with something worth protecting
-- **Legible AI systems** — human–AI collaboration that stays calm, auditable, and operationally sound
-- **Accessible design** — correctness and usability aren't in conflict; I refuse to treat them that way
-
----
-
-## Writing + Research
+## Research Line
 
 Essays, technical notes, and research on privacy infrastructure, human–AI collaboration, and open-source systems thinking.
 
