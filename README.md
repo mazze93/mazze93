@@ -66,12 +66,12 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 <summary><strong>Trustworthy AI & agentic systems</strong></summary>
 <br>
 
-| Project | What it does |
-|---|---|
-| [**praxis-aegis**](https://github.com/mazze93/praxis-aegis) | Trust-layer for agentic AI: policy guardrails and signing-aware controls for AI tool use |
-| [**stele**](https://github.com/mazze93/stele) | Directive compiler and integrity telemetry — governance-as-code for AI-assisted work |
-| [**stratum**](https://github.com/mazze93/stratum) | Epistemic decision ledger: append-only event log with evidence-gated trust |
-| [**context-synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for modeling how humans and AI systems negotiate context |
+| Project | What it does | Live |
+|---|---|---|
+| [**praxis-aegis**](https://github.com/mazze93/praxis-aegis) | Trust-layer for agentic AI: policy guardrails and signing-aware controls for AI tool use | — |
+| [**stele**](https://github.com/mazze93/stele) | Directive compiler and integrity telemetry — governance-as-code for AI-assisted work | [stele.mazzeleczzare.com](https://stele.mazzeleczzare.com) |
+| [**stratum**](https://github.com/mazze93/stratum) | Epistemic decision ledger: append-only event log with evidence-gated trust | [stratum.mazzeleczzare.com](https://stratum.mazzeleczzare.com) |
+| [**context-synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for modeling how humans and AI systems negotiate context | — |
 
 </details>
 
