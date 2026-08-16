@@ -28,9 +28,9 @@ Every project here is built against the same constraint: it has to work, be audi
 
 ## Current Excavations
 
-- Hardening privacy-first, local-first infrastructure (Meridian, macos-privacy)
+- Hardening privacy-first, local-first infrastructure (Meridian, mindful-dev)
 - Building policy guardrails and integrity telemetry for agentic AI (praxis-aegis, stele)
-- Extending idempotent hardening skills across GitHub repositories
+- Extending forensic tooling and MCP-server infrastructure (git-forensics-agent, kairos-mcp)
 - Writing on privacy infrastructure and human–AI collaboration
 
 ---
@@ -45,6 +45,18 @@ Every project here is built against the same constraint: it has to work, be audi
 
 ---
 
+## Bedrock
+
+The load-bearing layer — the sites where the evidence checks out cleanly against the claims. Not a "best of," a "checked."
+
+- [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) — 16 published essays, five green CI pipelines (build, CodeQL, dependency review, docs integrity, Lighthouse), live.
+- [**secure-container-template**](https://github.com/mazze93/secure-container-template) — non-root enforcement gated in CI, actions pinned to commit SHAs, a release that's actually shipped.
+- [**kairos-mcp**](https://github.com/mazze93/kairos-mcp) — MCP server for reasoning frameworks, dual transport, real tests, clean dependency hygiene.
+- [**github-mcp-gateway**](https://github.com/mazze93/github-mcp-gateway) — GitHub App OAuth gateway for MCP clients, in active daily use.
+- [**stratum**](https://github.com/mazze93/stratum) — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo.
+
+---
+
 ## Selected Sites
 
 Three exposures, drilled from the same face. Expand a core sample to see what's in it.
@@ -56,9 +68,8 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 | Project | What it does |
 |---|---|
 | [**secure-pride**](https://github.com/mazze93/secure-pride) | Privacy-first cybersecurity tools and standards for LGBTQ+ communities and high-risk groups, built for adversarial conditions |
-| [**secure-container-template**](https://github.com/mazze93/secure-container-template) | Hardened Python container template — non-root runtime, SBOM, Docker Scout, security-gated CI |
-| [**github-hardening-skills**](https://github.com/mazze93/github-hardening-skills) | Idempotent, transferable skills for hardening GitHub repositories — branch protection, Dependabot, CI |
-| [**macos-privacy**](https://github.com/mazze93/macos-privacy) | Ready-to-deploy, privacy-first macOS terminal + developer environment bootstrap |
+| [**git-forensics-agent**](https://github.com/mazze93/git-forensics-agent) | Zero-knowledge forensic case-file agent for adversarial git incidents — Durable Object brain, AES-256-GCM, HMAC-signed repair gate |
+| [**mindful-dev**](https://github.com/mazze93/mindful-dev) | Claude Code pre-action safety gate — blocks dangerous commands, redacts secrets, guards shell access |
 
 </details>
 
@@ -70,8 +81,8 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 |---|---|---|
 | [**praxis-aegis**](https://github.com/mazze93/praxis-aegis) | Trust-layer for agentic AI: policy guardrails and signing-aware controls for AI tool use | — |
 | [**stele**](https://github.com/mazze93/stele) | Directive compiler and integrity telemetry — governance-as-code for AI-assisted work | [stele.mazzeleczzare.com](https://stele.mazzeleczzare.com) |
-| [**stratum**](https://github.com/mazze93/stratum) | Epistemic decision ledger: append-only event log with evidence-gated trust | [stratum.mazzeleczzare.com](https://stratum.mazzeleczzare.com) |
 | [**context-synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for modeling how humans and AI systems negotiate context | — |
+| [**adaptive-response**](https://github.com/mazze93/adaptive-response) | Schema-driven AI response engine — Cloudflare Worker + Zod-validated typed output, deny-by-default CORS | — |
 
 </details>
 
@@ -84,7 +95,6 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 | [**meridian**](https://github.com/mazze93/meridian) | Privacy-first, local-first calendar for Apple platforms — Tailscale-only peer sync, no cloud |
 | [**lockr**](https://github.com/mazze93/lockr) | Privacy-first dating and social app for the LGBTQ+ community — E2E encryption, safety-first design |
 | [**daedalus-switch**](https://github.com/mazze93/daedalus-switch) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
-| [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) | Editorial platform for essays and privacy writing — Astro, MDX, Cloudflare Pages |
 
 </details>
 
