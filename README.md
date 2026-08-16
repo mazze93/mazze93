@@ -1,13 +1,13 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img alt="Mazze LeCzzare Frazer — security tooling, privacy-first systems, and human-AI infrastructure" src="./assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+    <img alt="A geological cross-section, fractured by two fault lines, reading: I build systems that cannot conceal their own state" src="./assets/banner-light.png" width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <strong>Security tooling. Privacy-first infrastructure. Human-AI systems built to last.</strong>
+  <strong>Security engineering, open infrastructure, and AI evaluation for systems that should fail visibly, not silently.</strong>
 </p>
 
 <p align="center">
@@ -18,17 +18,40 @@
 
 ---
 
-## What I Build
+## Thesis
 
-I make security practical and AI systems trustworthy — for independent builders, researchers, and organizations that can't afford to get it wrong.
+Systems reveal themselves under pressure — that's the working premise behind everything in this profile. I build and test for **observable state**: security tooling, privacy-preserving infrastructure, and human-AI systems designed so that failure surfaces early instead of getting buried under a passing test suite.
 
-My work sits at the intersection of **operational security**, **privacy infrastructure**, and **human-AI alignment**. Every project here is built against the same constraint: it has to work for people who aren't security engineers.
+Every project here is built against the same constraint: it has to work, be auditable, and be legible to people who aren't security engineers.
 
 ---
 
-## Selected Work
+## Current Excavations
 
-### Security & privacy infrastructure
+- Hardening privacy-first, local-first infrastructure (Meridian, macos-privacy)
+- Building policy guardrails and integrity telemetry for agentic AI (praxis-aegis, stele)
+- Extending idempotent hardening skills across GitHub repositories
+- Writing on privacy infrastructure and human–AI collaboration
+
+---
+
+## Work Strata
+
+| Domain | Focus | Typical output |
+|---|---|---|
+| Security & privacy infrastructure | Threat-informed hardening, container/CI security, adversarial-conditions design | tooling, templates, audits |
+| Trustworthy & agentic AI | Policy guardrails, integrity telemetry, epistemic decision logging | guardrail libraries, ledgers, research notes |
+| Apps & product design | Local-first sync, E2E-encrypted social systems, editorial platforms | shipped apps, calm UX under real constraints |
+
+---
+
+## Selected Sites
+
+Three exposures, drilled from the same face. Expand a core sample to see what's in it.
+
+<details open>
+<summary><strong>Security & privacy infrastructure</strong></summary>
+<br>
 
 | Project | What it does |
 |---|---|
@@ -37,7 +60,11 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 | [**github-hardening-skills**](https://github.com/mazze93/github-hardening-skills) | Idempotent, transferable skills for hardening GitHub repositories — branch protection, Dependabot, CI |
 | [**macos-privacy**](https://github.com/mazze93/macos-privacy) | Ready-to-deploy, privacy-first macOS terminal + developer environment bootstrap |
 
-### Trustworthy AI & agentic systems
+</details>
+
+<details>
+<summary><strong>Trustworthy AI & agentic systems</strong></summary>
+<br>
 
 | Project | What it does |
 |---|---|
@@ -46,7 +73,11 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 | [**stratum**](https://github.com/mazze93/stratum) | Epistemic decision ledger: append-only event log with evidence-gated trust |
 | [**context-synapse**](https://github.com/mazze93/context-synapse) | Experimental engine for modeling how humans and AI systems negotiate context |
 
-### Apps & product design
+</details>
+
+<details>
+<summary><strong>Apps & product design</strong></summary>
+<br>
 
 | Project | What it does |
 |---|---|
@@ -55,18 +86,27 @@ My work sits at the intersection of **operational security**, **privacy infrastr
 | [**daedalus-switch**](https://github.com/mazze93/daedalus-switch) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
 | [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) | Editorial platform for essays and privacy writing — Astro, MDX, Cloudflare Pages |
 
----
-
-## Areas of Focus
-
-- **Threat-informed security tooling** — reducing real-world risk, not just surface-area compliance
-- **Privacy-preserving infrastructure** — for builders and organizations with something worth protecting
-- **Legible AI systems** — human–AI collaboration that stays calm, auditable, and operationally sound
-- **Accessible design** — correctness and usability aren't in conflict; I refuse to treat them that way
+</details>
 
 ---
 
-## Writing + Research
+## Instrument Panel
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
+</p>
+
+The instruments that show up across these sites, not a full résumé of tools.
+
+---
+
+## Research Line
 
 Essays, technical notes, and research on privacy infrastructure, human–AI collaboration, and open-source systems thinking.
 
