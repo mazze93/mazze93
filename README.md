@@ -73,11 +73,51 @@ Every project here is built against the same constraint: it has to work, be audi
 
 The load-bearing layer — the sites where the evidence checks out cleanly against the claims. Not a "best of," a "checked."
 
-- [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) — 16 published essays, five green CI pipelines (build, CodeQL, dependency review, docs integrity, Lighthouse), live.
-- [**secure-container-template**](https://github.com/mazze93/secure-container-template) — non-root enforcement gated in CI, actions pinned to commit SHAs, a release that's actually shipped.
-- [**kairos-mcp**](https://github.com/mazze93/kairos-mcp) — MCP server for reasoning frameworks, dual transport, real tests, clean dependency hygiene.
-- [**github-mcp-gateway**](https://github.com/mazze93/github-mcp-gateway) — GitHub App OAuth gateway for MCP clients, in active daily use.
-- [**stratum**](https://github.com/mazze93/stratum) — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo.
+<p align="center">
+  <a href="https://github.com/mazze93/mazze-leczzare-blog">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-01-mazze-leczzare-blog.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-01-mazze-leczzare-blog.png">
+      <img alt="mazze-leczzare-blog — 16 published essays, five green CI pipelines (build, CodeQL, dependency review, docs integrity, Lighthouse), live." src="./assets/card-light-01-mazze-leczzare-blog.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/secure-container-template">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-02-secure-container-template.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-02-secure-container-template.png">
+      <img alt="secure-container-template — non-root enforcement gated in CI, actions pinned to commit SHAs, a release that's actually shipped." src="./assets/card-light-02-secure-container-template.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/kairos-mcp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-03-kairos-mcp.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-03-kairos-mcp.png">
+      <img alt="kairos-mcp — MCP server for reasoning frameworks, dual transport, real tests, clean dependency hygiene." src="./assets/card-light-03-kairos-mcp.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/github-mcp-gateway">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-04-github-mcp-gateway.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-04-github-mcp-gateway.png">
+      <img alt="github-mcp-gateway — GitHub App OAuth gateway for MCP clients, in active daily use." src="./assets/card-light-04-github-mcp-gateway.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/stratum">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-05-stratum.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-05-stratum.png">
+      <img alt="stratum — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo." src="./assets/card-light-05-stratum.png" width="100%">
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <picture>
