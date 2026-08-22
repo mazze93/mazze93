@@ -16,7 +16,13 @@
   <a href="mailto:mazze@mazzeleczzare.com">Get in touch</a>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Thesis
 
@@ -24,7 +30,13 @@ Systems reveal themselves under pressure — that's the working premise behind e
 
 Every project here is built against the same constraint: it has to work, be auditable, and be legible to people who aren't security engineers.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Current Excavations
 
@@ -33,7 +45,13 @@ Every project here is built against the same constraint: it has to work, be audi
 - Extending forensic tooling and MCP-server infrastructure (git-forensics-agent, kairos-mcp)
 - Writing on privacy infrastructure and human–AI collaboration
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Work Strata
 
@@ -43,19 +61,89 @@ Every project here is built against the same constraint: it has to work, be audi
 | Trustworthy & agentic AI | Policy guardrails, integrity telemetry, epistemic decision logging | guardrail libraries, ledgers, research notes |
 | Apps & product design | Local-first sync, E2E-encrypted social systems, editorial platforms | shipped apps, calm UX under real constraints |
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Bedrock
 
 The load-bearing layer — the sites where the evidence checks out cleanly against the claims. Not a "best of," a "checked."
 
-- [**mazze-leczzare-blog**](https://github.com/mazze93/mazze-leczzare-blog) — 16 published essays, five green CI pipelines (build, CodeQL, dependency review, docs integrity, Lighthouse), live.
-- [**secure-container-template**](https://github.com/mazze93/secure-container-template) — non-root enforcement gated in CI, actions pinned to commit SHAs, a release that's actually shipped.
-- [**kairos-mcp**](https://github.com/mazze93/kairos-mcp) — MCP server for reasoning frameworks, dual transport, real tests, clean dependency hygiene.
-- [**github-mcp-gateway**](https://github.com/mazze93/github-mcp-gateway) — GitHub App OAuth gateway for MCP clients, in active daily use.
-- [**stratum**](https://github.com/mazze93/stratum) — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo.
+<p align="center">
+  <a href="https://github.com/mazze93/mazze-leczzare-blog">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-01-mazze-leczzare-blog.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-01-mazze-leczzare-blog.png">
+      <img alt="mazze-leczzare-blog — editorial platform for essays on privacy infrastructure and human-AI collaboration. 16 published essays, five green CI checks." src="./assets/card-light-01-mazze-leczzare-blog.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/secure-container-template">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-02-secure-container-template.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-02-secure-container-template.png">
+      <img alt="secure-container-template — hardened Python container template with SBOM generation and vulnerability scanning built into the build. Non-root enforced, SHA-pinned actions, shipped release." src="./assets/card-light-02-secure-container-template.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/kairos-mcp">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-03-kairos-mcp.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-03-kairos-mcp.png">
+      <img alt="kairos-mcp — MCP server that reframes a query through classical reasoning and persuasion frameworks: Cialdini, SCAMPER, Socratic method. Dual transport, real test coverage." src="./assets/card-light-03-kairos-mcp.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/github-mcp-gateway">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-04-github-mcp-gateway.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-04-github-mcp-gateway.png">
+      <img alt="github-mcp-gateway — authenticated GitHub access for MCP clients, a GitHub App OAuth gateway for tools like Claude Code and Cowork. In active daily use." src="./assets/card-light-04-github-mcp-gateway.png" width="100%">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mazze93/stratum">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-05-stratum.png">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-05-stratum.png">
+      <img alt="stratum — append-only decision ledger for evidence-gated trust, epistemic claims logged not asserted. Python/TS parity checked in CI, live demo." src="./assets/card-light-05-stratum.png" width="100%">
+    </picture>
+  </a>
+</p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
+
+## Findings
+
+Evidence that doesn't run through my own repos. Two denial-of-service vulnerabilities found and reported in js-yaml's merge-key handling, plus a credited analysis contribution to a related disclosure — verified via GitHub Security Advisories, not self-reported.
+
+| CVE | Severity | Finding |
+|---|---|---|
+| [CVE-2026-59869](https://github.com/advisories/GHSA-52cp-r559-cp3m) | High (7.5) | Quadratic CPU consumption via chained merge keys — js-yaml 3.x/4.x |
+| [CVE-2026-59868](https://github.com/advisories/GHSA-g796-fgmg-93mv) | Moderate (5.3) | Quadratic CPU consumption via merge-key chains — js-yaml 5.x |
+| [CVE-2026-53550](https://github.com/advisories/GHSA-h67p-54hq-rp68) | Moderate (5.3) | Repeated-alias merge-key DoS — credited as an analyst alongside five other researchers |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Selected Sites
 
@@ -98,23 +186,33 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 
 </details>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Instrument Panel
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badges-light.png">
+    <img alt="Specimen tags: Python, TypeScript, PostgreSQL, Docker, Cloudflare, GitHub Actions, Tailscale" src="./assets/badges-light.png" width="100%">
+  </picture>
 </p>
 
 The instruments that show up across these sites, not a full résumé of tools.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Research Line
 
@@ -122,7 +220,13 @@ Essays, technical notes, and research on privacy infrastructure, human–AI coll
 
 → [mazzeleczzare.com](https://mazzeleczzare.com) &nbsp;·&nbsp; [ORCID 0009-0005-9661-4780](https://orcid.org/0009-0005-9661-4780)
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Build Philosophy
 
@@ -130,7 +234,13 @@ Software should be **secure**, **humane**, **understandable**, and accessible to
 
 That's not a nice-to-have. That's the constraint every project here is built against.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Work Together
 
