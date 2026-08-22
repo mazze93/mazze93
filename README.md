@@ -127,6 +127,24 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
   </picture>
 </p>
 
+## Findings
+
+Evidence that doesn't run through my own repos. Two denial-of-service vulnerabilities found and reported in js-yaml's merge-key handling, plus a credited analysis contribution to a related disclosure — verified via GitHub Security Advisories, not self-reported.
+
+| CVE | Severity | Finding |
+|---|---|---|
+| [CVE-2026-59869](https://github.com/advisories/GHSA-52cp-r559-cp3m) | High (7.5) | Quadratic CPU consumption via chained merge keys — js-yaml 3.x/4.x |
+| [CVE-2026-59868](https://github.com/advisories/GHSA-g796-fgmg-93mv) | Moderate (5.3) | Quadratic CPU consumption via merge-key chains — js-yaml 5.x |
+| [CVE-2026-53550](https://github.com/advisories/GHSA-h67p-54hq-rp68) | Moderate (5.3) | Repeated-alias merge-key DoS — credited as an analyst alongside five other researchers |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
+
 ## Selected Sites
 
 Three exposures, drilled from the same face. Expand a core sample to see what's in it.
