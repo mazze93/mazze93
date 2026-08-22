@@ -78,7 +78,7 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-01-mazze-leczzare-blog.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-01-mazze-leczzare-blog.png">
-      <img alt="mazze-leczzare-blog — 16 published essays, five green CI pipelines (build, CodeQL, dependency review, docs integrity, Lighthouse), live." src="./assets/card-light-01-mazze-leczzare-blog.png" width="100%">
+      <img alt="mazze-leczzare-blog — editorial platform for essays on privacy infrastructure and human-AI collaboration. 16 published essays, five green CI checks." src="./assets/card-light-01-mazze-leczzare-blog.png" width="100%">
     </picture>
   </a>
 </p>
@@ -87,7 +87,7 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-02-secure-container-template.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-02-secure-container-template.png">
-      <img alt="secure-container-template — non-root enforcement gated in CI, actions pinned to commit SHAs, a release that's actually shipped." src="./assets/card-light-02-secure-container-template.png" width="100%">
+      <img alt="secure-container-template — hardened Python container template with SBOM generation and vulnerability scanning built into the build. Non-root enforced, SHA-pinned actions, shipped release." src="./assets/card-light-02-secure-container-template.png" width="100%">
     </picture>
   </a>
 </p>
@@ -96,7 +96,7 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-03-kairos-mcp.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-03-kairos-mcp.png">
-      <img alt="kairos-mcp — MCP server for reasoning frameworks, dual transport, real tests, clean dependency hygiene." src="./assets/card-light-03-kairos-mcp.png" width="100%">
+      <img alt="kairos-mcp — MCP server that reframes a query through classical reasoning and persuasion frameworks: Cialdini, SCAMPER, Socratic method. Dual transport, real test coverage." src="./assets/card-light-03-kairos-mcp.png" width="100%">
     </picture>
   </a>
 </p>
@@ -105,7 +105,7 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-04-github-mcp-gateway.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-04-github-mcp-gateway.png">
-      <img alt="github-mcp-gateway — GitHub App OAuth gateway for MCP clients, in active daily use." src="./assets/card-light-04-github-mcp-gateway.png" width="100%">
+      <img alt="github-mcp-gateway — authenticated GitHub access for MCP clients, a GitHub App OAuth gateway for tools like Claude Code and Cowork. In active daily use." src="./assets/card-light-04-github-mcp-gateway.png" width="100%">
     </picture>
   </a>
 </p>
@@ -114,7 +114,7 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark-05-stratum.png">
       <source media="(prefers-color-scheme: light)" srcset="./assets/card-light-05-stratum.png">
-      <img alt="stratum — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo." src="./assets/card-light-05-stratum.png" width="100%">
+      <img alt="stratum — append-only decision ledger for evidence-gated trust, epistemic claims logged not asserted. Python/TS parity checked in CI, live demo." src="./assets/card-light-05-stratum.png" width="100%">
     </picture>
   </a>
 </p>
