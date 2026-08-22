@@ -180,9 +180,9 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/badges-light.svg">
-    <img alt="Specimen tags: Python, TypeScript, PostgreSQL, Docker, Cloudflare, GitHub Actions, Tailscale" src="./assets/badges-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badges-light.png">
+    <img alt="Specimen tags: Python, TypeScript, PostgreSQL, Docker, Cloudflare, GitHub Actions, Tailscale" src="./assets/badges-light.png" width="100%">
   </picture>
 </p>
 
