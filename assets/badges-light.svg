@@ -1,0 +1,74 @@
+<svg width="1368" height="136" viewBox="0 0 1368 136" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Instrument panel: Python, TypeScript, PostgreSQL, Docker, Cloudflare, GitHub Actions, Tailscale">
+<style>text{font-family: Georgia, 'Times New Roman', serif;}</style>
+<g>
+<rect x="14" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="19" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="19" y="19" width="166" height="5" fill="#C9973E"/>
+<path d="M 171,28 L 181,28 M 176,23 L 176,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="28" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">01</text>
+<text x="102.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">Python</text>
+<line x1="78.0" y1="90.0" x2="126.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="102.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="208" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="213" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="213" y="19" width="166" height="5" fill="#3D5760"/>
+<path d="M 365,28 L 375,28 M 370,23 L 370,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="222" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">02</text>
+<text x="296.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">TypeScript</text>
+<line x1="256.0" y1="90.0" x2="336.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="296.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="402" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="407" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="407" y="19" width="166" height="5" fill="#A85A34"/>
+<path d="M 559,28 L 569,28 M 564,23 L 564,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="416" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">03</text>
+<text x="490.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">PostgreSQL</text>
+<line x1="450.0" y1="90.0" x2="530.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="490.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="596" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="601" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="601" y="19" width="166" height="5" fill="#C9973E"/>
+<path d="M 753,28 L 763,28 M 758,23 L 758,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="610" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">04</text>
+<text x="684.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">Docker</text>
+<line x1="660.0" y1="90.0" x2="708.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="684.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="790" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="795" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="795" y="19" width="166" height="5" fill="#3D5760"/>
+<path d="M 947,28 L 957,28 M 952,23 L 952,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="804" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">05</text>
+<text x="878.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">Cloudflare</text>
+<line x1="838.0" y1="90.0" x2="918.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="878.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="984" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="989" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="989" y="19" width="166" height="5" fill="#A85A34"/>
+<path d="M 1141,28 L 1151,28 M 1146,23 L 1146,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="998" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">06</text>
+<text x="1072.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">GH Actions</text>
+<line x1="1032.0" y1="90.0" x2="1112.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="1072.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<g>
+<rect x="1178" y="14" width="176" height="108" rx="4" fill="#F3E8CE" stroke="#2A2118" stroke-width="1.4"/>
+<rect x="1183" y="19" width="166" height="98" rx="2" fill="none" stroke="#2A2118" stroke-width="0.6" opacity="0.55"/>
+<rect x="1183" y="19" width="166" height="5" fill="#C9973E"/>
+<path d="M 1335,28 L 1345,28 M 1340,23 L 1340,33" stroke="#2A2118" stroke-width="0.8" opacity="0.6"/>
+<text x="1192" y="38" font-size="11" letter-spacing="1.5" fill="#2A2118" opacity="0.55" font-family="Georgia, serif">07</text>
+<text x="1266.0" y="81.0" font-size="21" font-weight="700" fill="#2A2118" text-anchor="middle">Tailscale</text>
+<line x1="1230.0" y1="90.0" x2="1302.0" y2="90.0" stroke="#2A2118" stroke-width="0.8" opacity="0.4"/>
+<text x="1266.0" y="108" font-size="10" letter-spacing="2" fill="#7A6A4E" text-anchor="middle" font-family="Georgia, serif">SPECIMEN</text>
+</g>
+<rect x="0.5" y="0.5" width="1367" height="135" fill="none" stroke="none"/>
+</svg>

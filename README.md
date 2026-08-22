@@ -16,7 +16,13 @@
   <a href="mailto:mazze@mazzeleczzare.com">Get in touch</a>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Thesis
 
@@ -24,7 +30,13 @@ Systems reveal themselves under pressure — that's the working premise behind e
 
 Every project here is built against the same constraint: it has to work, be auditable, and be legible to people who aren't security engineers.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Current Excavations
 
@@ -33,7 +45,13 @@ Every project here is built against the same constraint: it has to work, be audi
 - Extending forensic tooling and MCP-server infrastructure (git-forensics-agent, kairos-mcp)
 - Writing on privacy infrastructure and human–AI collaboration
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Work Strata
 
@@ -43,7 +61,13 @@ Every project here is built against the same constraint: it has to work, be audi
 | Trustworthy & agentic AI | Policy guardrails, integrity telemetry, epistemic decision logging | guardrail libraries, ledgers, research notes |
 | Apps & product design | Local-first sync, E2E-encrypted social systems, editorial platforms | shipped apps, calm UX under real constraints |
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Bedrock
 
@@ -55,7 +79,13 @@ The load-bearing layer — the sites where the evidence checks out cleanly again
 - [**github-mcp-gateway**](https://github.com/mazze93/github-mcp-gateway) — GitHub App OAuth gateway for MCP clients, in active daily use.
 - [**stratum**](https://github.com/mazze93/stratum) — dual Python/TS implementation with parity checked in CI, doc-drift detection, a live Cloudflare Worker demo.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Selected Sites
 
@@ -98,23 +128,33 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 
 </details>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Instrument Panel
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/badges-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/badges-light.svg">
+    <img alt="Specimen tags: Python, TypeScript, PostgreSQL, Docker, Cloudflare, GitHub Actions, Tailscale" src="./assets/badges-light.svg" width="100%">
+  </picture>
 </p>
 
 The instruments that show up across these sites, not a full résumé of tools.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Research Line
 
@@ -122,7 +162,13 @@ Essays, technical notes, and research on privacy infrastructure, human–AI coll
 
 → [mazzeleczzare.com](https://mazzeleczzare.com) &nbsp;·&nbsp; [ORCID 0009-0005-9661-4780](https://orcid.org/0009-0005-9661-4780)
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Build Philosophy
 
@@ -130,7 +176,13 @@ Software should be **secure**, **humane**, **understandable**, and accessible to
 
 That's not a nice-to-have. That's the constraint every project here is built against.
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+    <img alt="" src="./assets/divider-light.svg" width="100%">
+  </picture>
+</p>
 
 ## Work Together
 
