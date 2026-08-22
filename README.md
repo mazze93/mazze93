@@ -185,6 +185,7 @@ Three exposures, drilled from the same face. Expand a core sample to see what's 
 | [**meridian**](https://github.com/mazze93/meridian) | Privacy-first, local-first calendar for Apple platforms — Tailscale-only peer sync, no cloud |
 | [**lockr**](https://github.com/mazze93/lockr) | Privacy-first dating and social app for the LGBTQ+ community — E2E encryption, safety-first design |
 | [**daedalus-switch**](https://github.com/mazze93/daedalus-switch) | Identity & context switcher — one command switches VPN, terminal, browser, and filesystem context |
+| [**platekit**](https://github.com/mazze93/platekit) | Token-driven components for illustrated READMEs — divider, tag panel, card, cross-section, rendered offline via Playwright |
 
 </details>
 
