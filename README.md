@@ -55,11 +55,13 @@ Every project here is built against the same constraint: it has to work, be audi
 
 ## Work Strata
 
-| Domain | Focus | Typical output |
-|---|---|---|
-| Security & privacy infrastructure | Threat-informed hardening, container/CI security, adversarial-conditions design | tooling, templates, audits |
-| Trustworthy & agentic AI | Policy guardrails, integrity telemetry, epistemic decision logging | guardrail libraries, ledgers, research notes |
-| Apps & product design | Local-first sync, E2E-encrypted social systems, editorial platforms | shipped apps, calm UX under real constraints |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/strata-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/strata-light.png">
+    <img alt="Three strata of work. 01 Security & privacy infrastructure: threat-informed hardening, container/CI security, adversarial-conditions design; typical output: tooling, templates, audits. 02 Trustworthy & agentic AI: policy guardrails, integrity telemetry, epistemic decision logging; typical output: guardrail libraries, ledgers, research notes. 03 Apps & product design: local-first sync, E2E-encrypted social systems, editorial platforms; typical output: shipped apps, calm UX." src="./assets/strata-light.png" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
